@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
     <modules>
-        <Centroida_MyProducts>
+        <Centroida_IdBySku>
             <active>true</active>
             <codePool>local</codePool>
-        </Centroida_MyProducts>
+        </Centroida_IdBySku>
     </modules>
 </config>

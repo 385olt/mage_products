@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Centroida_IdBySku>
+            <version>0.1.0.0</version>
+        </Centroida_IdBySku>
+    </modules>
+    <global>
+        <models>
+           	<IdBySku>
+                <class>Centroida_IdBySku_Model</class>
+            </IdBySku>
+        </models>
+    </global>
+</config>
